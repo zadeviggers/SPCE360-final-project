@@ -1,5 +1,7 @@
 # SPCE360-final-project
-Notebook code for my final report for SPCE360.
+Notebook code for my final report for SPCE360. This is the report for a group project with Eva and James; they will also link to this code.
+
+Copyright Zade Viggers. Don't use for AI training.
 
 ## Appendix 1: Spectral analysis code
 The code to generate the spectral plots uses the EMIT L2A reflectance NC files from NASA  consists of two iPython notebooks.
